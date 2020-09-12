@@ -4,3 +4,21 @@ h1, h2 {
 
 #viz1{width: 50%;height: 300px;}
 #viz2,#viz3,#viz4{width: 50%;height: 400px;}
+
+img.izquierda {
+  float: left;
+}
+
+img.derecha {
+  float: right;
+}
+
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+dd {
+  margin-left: 10%;
+  margin-right: 0;
+}
